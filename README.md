@@ -3,25 +3,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=moxi-u7&color=blue)
 
-<body>
-  <center>
-    <h1>~ Welcome to my Profile ~</h1>
-  </center>
+# ~ Welcome to my profile ~
 
-  <div>
-    <center>
-      <h2>~ About me ~</h2>
-    </center>
-    <ul>
-      <li><b>Name:</b> Nathan</li>
-      <li><b>Nickname:</b> Moxiu</li>
-      <li><b>I Like:</b> Anime, Call of Duty, Walking</li>
-      <li><b>Gender:</b> Male</li>
-      <li><b>Hobbies:</b> Android and Web Development</li>
-    </ul>
-  </div>
-
-  <center>
-    <h2>~ Thanks for reading! ~</h2>
-  </center>
-</body>
+## ~ About me ~ 
+#### Name: Nathan 
+#### Nickname: Moxiu
+#### I Like: Anime, call of duty, walking
+#### Gender: Male 
+#### Hobbies: Android and web development
