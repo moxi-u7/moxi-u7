@@ -6,8 +6,10 @@
 # ~ Welcome to my profile ~
 
 ## ~ About me ~ 
-#### Name: Nathan 
-#### Nickname: Moxiu
-#### I Like: Anime, call of duty, walking
-#### Gender: Male 
-#### Hobbies: Android and web development
+- **Name: Nathan**
+- Nickname: Moxiu
+- I Like: Anime, call of duty, walking
+- Gender: Male 
+- Hobbies: Android and web development
+
+# ~ Thanks For Reading ~
