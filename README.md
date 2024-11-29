@@ -1,16 +1,37 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://github.com/moxi-u7/moxi-u7/blob/82bb6015840a2d53bcd09f3dc63792337e973bc6/pxArt%20(1).png?raw=true" width="100" style="border-radius: 15px;"/>
+  <h3>:wave: Hello! I am Moxiu</h3>
+</div>
 
-<!--
-**moxi-u7/moxi-u7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://t.me/moxi_u7">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://x.com/moxiudev">
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://discord.com/users/1154823136710246441">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://xdaforums.com/m/moxii_75.12920105/">
+    <img src="https://img.shields.io/badge/XDA-f59714?style=for-the-badge&logo=xdadevelopers&logoColor=white" alt="Discord Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🤔 About Me 🤔
+- I am a "maintainer" from Poland.
+- I mostly do android building.
+
+#### 📱Owned Devices📱
+- Samsung A53 5G (a53x) (bricked)
+- Poco X3 Pro (vayu)
+- Iphone 11 Pro (D42) (main)
+
+#### 🤝 Maintainership 🤝
+I currently maintain the following projects:
+- PixelOS
+---
+
+You can contact me at telegram on **[@moxi-u7](https://t.me/moxi_u7)** or on **[Discord](https://discord.com/users/1154823136710246441)**.
