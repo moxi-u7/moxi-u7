@@ -25,7 +25,7 @@
 - I mostly do android building.
 
 #### 📱Owned Devices📱
-- Samsung A53 5G (a53x) (bricked)
+- Samsung A53 5G (a53x) (*fixed)
 - Poco X3 Pro (vayu)
 - Iphone 11 Pro (D42) (main)
 
