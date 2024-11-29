@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://github.com/moxi-u7/moxi-u7/blob/82bb6015840a2d53bcd09f3dc63792337e973bc6/pxArt%20(1).png?raw=true" width="100" style="border-radius: 15px;"/>
-  <h3>:wave: Hello! I am Moxiu</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/moxi-u7/moxi-u7/3f0257e62b086ddeb5db48110a14b01b35b1cfae/new-pic/image.png" width="100" />
+  <h3>👋 Hello! I am Moxiu</h3>
 </div>
 
 <div id="badges" align="center">
